@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Micro.Models.nextpaydayModel>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <p>
+            @Html.ActionLink("Print", "", null, new { @class = "btn btn-primary pull-right" })
+        </p>
+        <h3 class="panel-title">Customers who are experted to pay loans this Month</h3>
+    </div>
+
+
+    <table class="table table-striped table-hover table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.number)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Customer_name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LDD)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LDA)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NDD)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.NDA)
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.number)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Customer_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LDD)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LDA)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NDD)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NDA)
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>

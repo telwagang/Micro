@@ -1,0 +1,23 @@
+﻿@model  Micro.Models.ViewHelperModel
+@{ 
+    ViewBag.Title = "Apply For Loan";
+}
+
+<div class="row"> 
+    <div class="col-lg-10">
+        
+        @Html.Partial("SmallView/LoanViewView", @Model.lv)
+    </div>
+    <div id="morecustumer" class="col-lg-4">
+
+       @*@Html.Partial("SmallView/customerDetails", @Model.customer)*@
+    </div>
+    @*<script>
+        $(function () {
+            $(document).on()
+
+
+        });
+
+    </script>*@
+</div>

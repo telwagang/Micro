@@ -1,0 +1,27 @@
+﻿@using Micro;
+@model Micro.Models.AkibaMultipleViewModel
+
+@{
+    ViewBag.Title = "Akiba";
+}
+
+<h2>Akiba Transaction Activity </h2>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Cash Withdraw 
+    </div>
+ @Html.Partial("smallView/ActivitySmall", Model.AkibaCT)
+    <div class="panel-footer">
+        
+    </div>
+    </div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Cash Deposit 
+    </div>
+    @Html.Partial("smallView/ActivitySmall", Model.AkibaDT)
+    <div class="panel-footer"></div>
+</div>
+

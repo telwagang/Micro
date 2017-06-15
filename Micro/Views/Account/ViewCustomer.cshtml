@@ -1,0 +1,118 @@
+﻿@model IEnumerable<Micro.Models.RegisterClientViewModel>
+
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <p>
+             
+            @Html.ActionLink("Create New Customer", "RegisterClient", null, new { @class = "btn btn-primary pull-right" })
+        </p>
+        <h3 class="panel-title">list of Staff Members</h3>
+    </div>
+    <table class="table table-striped table-hover table-bordered">
+        <thead>
+            <tr>
+                <th>
+                    <small> N0.</small>
+                   
+                </th>
+                <th>
+                   <small>@Html.DisplayNameFor(model => model.national_id)</small>
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.First_name)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Middle_name)</small>
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Last_name)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Birthdate)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.occupution)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Mobile_number)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Email)</small>  
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Nationality)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Ward)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Division)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.Street)</small> 
+                </th>
+                <th>
+                    <small>@Html.DisplayNameFor(model => model.date)</small> 
+                </th>
+                <th><small>Actions</small> </th>
+            </tr>
+            </thead>
+            <tbody>
+                @{ int i = 1;}
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @i
+                            @{i++;}
+                        </td>
+                        <td>
+                          <small>@Html.DisplayFor(modelItem => item.national_id)</small> 
+                        </td>
+                        <td>
+                           <small>@Html.DisplayFor(modelItem => item.First_name)</small> 
+                        </td>
+                        <td>
+                            <small>@Html.DisplayFor(modelItem => item.Middle_name)</small>
+                        </td>
+                        <td>
+                           <small>@Html.DisplayFor(modelItem => item.Last_name)</small> 
+                        </td>
+                        <td>
+                           <small>@Html.DisplayFor(modelItem => item.date)</small>
+                        </td>
+                        <td>
+                           <small>@Html.DisplayFor(modelItem => item.occupution)</small>
+                        </td>
+                        <td>
+                           <smal>@Html.DisplayFor(modelItem => item.Mobile_number)</smal>
+                        </td>
+                        <td>
+                          <small>  @Html.DisplayFor(modelItem => item.Email)</small>
+                        </td>
+                        <td>
+                         <small>@Html.DisplayFor(modelItem => item.Nationality)</small>  
+                        </td>
+                        <td>
+                            <small>@Html.DisplayFor(modelItem => item.Ward)</small>  
+                        </td>
+                        <td>
+                            <small>@Html.DisplayFor(modelItem => item.Division)</small> 
+                        </td>
+                        <td>
+                            <small>@Html.DisplayFor(modelItem => item.Street)</small>  
+                        </td>
+                        <td>
+                            <small>@Html.DisplayFor(modelItem => item.date)</small> 
+                        </td>
+                        <td>
+                           <small>@Html.ActionLink("Edit", "EditCustomer", new { Key = item.CustomerId })</small>  |
+                           <small>@Html.ActionLink("Update", "UpdateCustomer", new { Key = item.CustomerId })</small>  |
+                            <small>@Html.ActionLink("Delete", "DeleteCustomer", new { Key = item.CustomerId })</small>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+</table>
+    </div>

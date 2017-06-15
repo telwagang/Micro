@@ -1,0 +1,336 @@
+C:\Users\Terwa\Documents\Micro\Micro\bin\Micro.dll.config
+C:\Users\Terwa\Documents\Micro\Micro\bin\Micro.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Micro.pdb
+C:\Users\Terwa\Documents\Micro\Micro\bin\Antlr3.Runtime.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\EntityFramework.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\EntityFramework.SqlServer.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Web.Helpers.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\MySql.Data.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Newtonsoft.Json.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Owin.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.Helpers.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.Mvc.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.Optimization.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.Razor.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.WebPages.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\WebGrease.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\WebMatrix.Data.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\WebMatrix.WebData.dll
+C:\Users\Terwa\Documents\Micro\Micro\bin\Antlr3.Runtime.pdb
+C:\Users\Terwa\Documents\Micro\Micro\bin\EntityFramework.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\EntityFramework.SqlServer.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\Newtonsoft.Json.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.Helpers.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.Mvc.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.Razor.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.WebPages.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\System.Web.Optimization.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\WebMatrix.Data.xml
+C:\Users\Terwa\Documents\Micro\Micro\bin\WebMatrix.WebData.xml
+C:\Users\Terwa\Documents\Micro\Micro\obj\Debug\Micro.csprojResolveAssemblyReference.cache
+C:\Users\Terwa\Documents\Micro\Micro\obj\Debug\Micro.dll
+C:\Users\Terwa\Documents\Micro\Micro\obj\Debug\Micro.pdb
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Micro.dll.config
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Micro.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Micro.pdb
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Antlr3.Runtime.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\EntityFramework.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\EntityFramework.SqlServer.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Web.Helpers.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\MySql.Data.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Newtonsoft.Json.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Owin.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.Helpers.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.Mvc.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.Optimization.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.Razor.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.WebPages.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.WebPages.Razor.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\WebGrease.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\WebMatrix.Data.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\WebMatrix.WebData.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Antlr3.Runtime.pdb
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\EntityFramework.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\EntityFramework.SqlServer.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\Newtonsoft.Json.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.Helpers.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.Mvc.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.Razor.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.WebPages.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.WebPages.Razor.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\System.Web.Optimization.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\WebMatrix.Data.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\bin\WebMatrix.WebData.xml
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\obj\Debug\Micro.dll
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\obj\Debug\Micro.pdb
+C:\Users\eurphrasia\Desktop\projects\Under development\Micro\Micro\obj\Debug\Micro.csprojResolveAssemblyReference.cache
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Micro.dll.config
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Micro.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Micro.pdb
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Antlr3.Runtime.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\EntityFramework.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\EntityFramework.SqlServer.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Web.Helpers.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\MySql.Data.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Newtonsoft.Json.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Owin.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.Helpers.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.Mvc.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.Optimization.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.Razor.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.WebPages.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\WebGrease.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\WebMatrix.Data.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\WebMatrix.WebData.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Antlr3.Runtime.pdb
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\EntityFramework.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\EntityFramework.SqlServer.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\Newtonsoft.Json.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.Helpers.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.Mvc.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.Razor.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.WebPages.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\System.Web.Optimization.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\WebMatrix.Data.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\WebMatrix.WebData.xml
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\obj\Debug\Micro.Properties.Resources.resources
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\obj\Debug\Micro.csproj.GenerateResource.Cache
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\obj\Debug\Micro.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\obj\Debug\Micro.pdb
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\obj\Debug\Micro.csprojResolveAssemblyReference.cache
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\AutoMapper.dll
+C:\Users\Telwa_gang\Desktop\projects\Micro\Micro\bin\AutoMapper.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.Properties.Resources.resources
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.csproj.GenerateResource.Cache
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Micro.dll.config
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Micro.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Micro.pdb
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Antlr3.Runtime.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\AutoMapper.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\EntityFramework.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\EntityFramework.SqlServer.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Web.Helpers.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\MySql.Data.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Newtonsoft.Json.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Owin.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Helpers.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Mvc.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Optimization.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Razor.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\WebGrease.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\WebMatrix.Data.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\WebMatrix.WebData.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Antlr3.Runtime.pdb
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\AutoMapper.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\EntityFramework.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\EntityFramework.SqlServer.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\Newtonsoft.Json.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Helpers.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Mvc.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Razor.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Optimization.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\WebMatrix.Data.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\bin\WebMatrix.WebData.xml
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.dll
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.pdb
+C:\Users\Telwa_gang\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.csprojResolveAssemblyReference.cache
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.csprojResolveAssemblyReference.cache
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.Properties.Resources.resources
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.csproj.GenerateResource.Cache
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\obj\Debug\Micro.pdb
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Micro.dll.config
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Micro.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Micro.pdb
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Antlr3.Runtime.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\AutoMapper.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\EntityFramework.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\EntityFramework.SqlServer.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Web.Helpers.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\MySql.Data.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Newtonsoft.Json.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Owin.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Helpers.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Mvc.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Optimization.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Providers.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Razor.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\WebGrease.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\WebMatrix.Data.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\WebMatrix.WebData.dll
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Antlr3.Runtime.pdb
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\AutoMapper.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\EntityFramework.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\EntityFramework.SqlServer.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\Newtonsoft.Json.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Helpers.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Mvc.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Providers.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Razor.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\System.Web.Optimization.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\WebMatrix.Data.xml
+C:\Users\Telwa\OneDrive\Documents\Under development\Micro\Micro\bin\WebMatrix.WebData.xml

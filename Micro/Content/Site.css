@@ -1,0 +1,98 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color:#eeeeee;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.navbar{
+    background-color:#ffffff;
+}
+.col-md-3{
+    background-color:#ffffff;
+}
+
+.space{
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:15px;
+    height: 200px;
+    
+}
+
+.row{
+    margin:auto;
+}
+#top_table{
+    
+    margin-top:2em;
+}
+
+.datalist{
+    display:none;
+}
+#datalist{
+    position:absolute;
+    max-width:280px;
+    width:100%;
+    background:#fff;
+    margin-top:5px;
+    padding:0px;
+    z-index:2;
+}
+#datalist li{
+    
+    list-style:none;
+    padding-left:20px;
+    padding-top:7px;
+    padding-bottom:7px;
+    border-bottom: 7px solid #eeeeee;
+    font-size:18px;
+    
+}
+#datalist li:hover{
+    background:rgba(128, 128, 128,0.4);
+    cursor:pointer;
+}
+#datalist li:last-child{
+    padding-bottom:6px;
+    border-bottom:8px solid rgb(128, 128, 128);
+}
+.well p{
+    font-size:14px;
+    color:rgb(52,51,52);
+}
+.well p span
+ {
+    margin-left:5px;
+    color:rgb(105,103,104);
+    
+}
+.well h3{
+    color:#555;
+}
+
+.panel{
+    margin-top:2em;
+}
+.btn{
+    margin-bottom:1em;
+}

@@ -1,0 +1,29 @@
+﻿@model Micro.Models.Akiba
+
+@{
+    ViewBag.Title = "balance";
+}
+
+<h2>balance</h2>
+
+<div>
+    <h4>Akiba</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        
+       
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+       
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

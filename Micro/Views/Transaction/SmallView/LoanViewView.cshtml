@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Micro.Models.LoanViewModel>
+
+@{
+    ViewBag.Title = "LoanViewView";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+    <h2>List of Loan Requests to Approve</h2></div>
+
+    <table class="table table-responsive table-hover">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.customerName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.loanId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.By)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.amount)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.interest)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.duration)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DateIn)
+                </th>
+                <th>Action</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.customerName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.loanId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.By)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.amount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.interest)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.duration)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DateIn)
+                    </td>
+
+                    <td>
+
+
+                        @Html.ActionLink("Approve", "Responsent", new { id = item.loanId, xtr = "up" }, null) |
+                        @Html.ActionLink("No", "Responsent", new { id = item.loanId, xtr = "down" }, null)
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,20 @@
+﻿@model Micro.Models.LoanViewModel
+
+@{
+    ViewBag.Title = "checkLoan";
+}
+
+<h2>Check loan balance</h2>
+<div>
+    <form>
+        <input type="search" class="form-control" id="txtusername" placeholder="Search Customer" autocomplete="off" />
+    </form>
+</div>
+@{ 
+    if (Model != null)
+    {
+
+        Html.Partial("SmallView/_checkLoanDetails", Model);
+
+    }
+    }

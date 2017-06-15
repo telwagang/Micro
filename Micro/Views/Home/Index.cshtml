@@ -1,0 +1,84 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2>Quick Search </h2>
+    <form class="form-group" id="formsearch"  >
+        <input type="search" class="form-control" id="fullsearch" placeholder="Search Customer" autocomplete="off" />
+       <ul id="datalist" class="datalist">
+           
+       </ul>
+    </form>
+    <div id="top_table" class="datalist">
+        <button class="close" type="button" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <table class="table table-responsive">
+            
+            <tbody>
+                <tr>
+                    <td>
+                        <div class="well well-lg" >
+                            <h3>Customer Details</h3>
+                            <p>Name:<span id="username"></span></p>
+                            <p>Customer Id:<span id="customerid"></span></p>
+                            <p>Age: <span id="age"></span></p>
+                            <p>Nationality: <span id="nationality"></span></p>
+                            <p>Phone Number: <span id="phone_number"></span></p>
+                            <p>Address: <span id="address"></span></p>
+                            <p>Member Since: <span id="date"></span></p>
+                            <a class="btn btn-warning link-customer btn-sm" role="button" href="~/Account/EditCustomerr">Edit Info</a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="well well-lg">
+                            <h3>Akiba Details</h3>
+                            <p>Akiba Id: <span id="akibaid"></span></p>
+                            <p>Balance:<span id="akiba_balance"></span></p>
+                            <a class="btn btn-primary link-akiba btn-sm" role="button" href="~/Transaction/ToAkibaa">Deposit</a>
+                            <a class="btn btn-primary link-akiba btn-sm" role="button" href="~/Transaction/ToAkibaa">Withdraw</a>
+                            <a class="btn btn-info link-akiba btn-sm" role="button" href="~/Transaction/Activityy">View Transactions</a>
+                            <a class="btn btn-warning link-akiba hidden btn-sm" role="button" href="~/Transaction/Akibaa">Open Akiba Account </a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="well well-lg">
+                            <h3>Loan Detials</h3>
+                            <p>Loan Id:<span id="loanid"></span></p>
+                            <p>Balance: <span id="loan_balance"></span></p>
+                            <p>Amount taken: <span id="amount_taken"></span></p>
+                            <p>Amount To be returned:<span id="return_amount"></span></p>
+                            <a class="btn btn-primary link-loan btn-sm" role="button" href="~/Transaction/PayLoann">Pay Loan</a>
+                            <a class="btn btn-success link-loan btn-sm hidden" role="button" href="~/Transaction/applyForloann">New Loan</a>
+
+                        </div>
+                    </td>
+                    <td>
+                        <div class="well well-lg">
+                            <h3>Hisa Details</h3>
+                            <p>Number Of Hisa:<span id="no_hisa"></span></p>
+                            <p>Hisa Amount:<span id="amount_hisa"></span></p>
+                            <a class="btn btn-warning link-hisa btn-sm" role="button" href="~/Accounts/Addhisaa">Add hisa</a>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-3 space">        
+        <h2>Management </h2>
+        <p><a href="/Account/mRegister" class="btn btn-default" >Register</a></p>
+    </div>
+    <div class="col-md-3 space">
+        <h2>Akiba </h2>
+        <p>Either to diposite or witdraw cash or Create an Akiba Account</p>
+         <p><a class="btn btn-default" href="/Transaction/AkibaMain">Akiba</a></p>
+    </div>
+    <div class="col-md-3 space">
+        <h2>loan</h2>
+        <p>Start a new loan or paying a loan or anything loan related </p>
+         <p><a class="btn btn-default" href="/Transaction/loan">apply for Loan</a></p>
+    </div>
+</div>

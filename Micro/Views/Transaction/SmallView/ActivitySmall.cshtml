@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Micro.Models.activityViewModel>
+
+
+<table class="table table-responsive">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.number)
+        </th>
+        h>
+        @Html.DisplayNameFor(model => model.Customer_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.akiba_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.staff)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.number  )
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customer_name)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.akiba_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.staff)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.amount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,22 @@
+﻿
+@model Micro.Models.AkibaMultipleViewModel
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Cash Deposit
+    </div>
+    <table class="table">
+        <tr>
+            <th>Date</th>
+            <th>Amount</th>
+        </tr>
+        @foreach (var ct in Model.AkibaDT)
+        {
+            <tr>
+                <td>@ct.date</td>
+                <td>@ct.DT_Amount</td>
+            </tr>
+        }
+    </table>
+    <div class="panel-footer"></div>
+</div>

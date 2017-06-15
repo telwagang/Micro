@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Micro.Models.searchloanviewmodel>
+
+@{
+    ViewBag.Title = "";
+}
+
+
+
+<table class="table table-responsive table-striped">
+    <thead>
+    <tr class="tr">
+        <th>
+            @Html.DisplayNameFor(model => model.First_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Middle_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Last_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.duration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.returnAmount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date)
+        </th>
+        <th></th>
+    </tr>
+        </thead>
+
+@foreach (var item in Model) {
+    <tr class="">
+        <td>
+            @Html.DisplayFor(modelItem => item.First_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Middle_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Last_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CustomerId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.duration)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.amount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.returnAmount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.date)
+        </td>
+        <td>
+            @Html.ActionLink("Pay Loan", "payLoan", new { key=item.loanid ,name=item.First_name+" "+item.Last_name},null) 
+           
+        </td>
+    </tr>
+}
+
+</table>

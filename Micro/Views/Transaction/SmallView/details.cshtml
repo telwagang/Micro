@@ -1,0 +1,50 @@
+﻿@model Micro.Models.paymentViewModel
+
+@{
+    ViewBag.Title = "details";
+}
+
+<h2>details</h2>
+
+<div>
+    <h4>paymentViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.customer_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.customer_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.loanId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.loanId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.staffId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.staffId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.amountPaid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.amountPaid)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

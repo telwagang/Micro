@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="saccos" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Telwa_gang\\OneDrive\\Documents\\Under\ development\\Micro\\Micro\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Telwa_gang\\OneDrive\\Documents\\Under\ development\\Micro\\Micro\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="data source=tcp:microsystems.database.windows.net,1433;initial catalog=micro;integrated security=False;user id=telwa;password=jake.love.94;connect timeout=30;encrypt=True;trustservercertificate=True;applicationintent=ReadWrite;multisubnetfailover=False;MultipleActiveResultSets=False" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Telwa_gang\\OneDrive\\Documents\\Under\ development\\Micro\\Micro\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="SqlMicro-Web.config Connection String" description="SqlMicro Connection String used in web.config by the application to access the database." value="Data Source=JOSEPHDEOTE9173\SQLEXPRESS;Initial Catalog=Micro;Integrated Security=True " tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Telwa_gang\\OneDrive\\Documents\\Under\ development\\Micro\\Micro\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SqlMicro']/@connectionString" />
+  </parameter>
+  <parameter name="Micro.DataLayer.MicroContext-Web.config Connection String" description="Micro.DataLayer.MicroContext Connection String used in web.config by the application to access the database." value="Micro.DataLayer.MicroContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Telwa_gang\\OneDrive\\Documents\\Under\ development\\Micro\\Micro\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Micro.DataLayer.MicroContext']/@connectionString" />
+  </parameter>
+</parameters>

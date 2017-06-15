@@ -1,0 +1,23 @@
+﻿@model  Micro.Models.searchViewModel
+
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>Search </h2>
+
+<div >
+    <form id="checkstatus" class="form-group">
+
+        <input type="search" class="s" id="Searchbox" placeholder="Search here" />
+    </form>
+
+</div>
+<diiv class="row">
+    <div id="here" class="col-lg-10">
+
+        @Html.Partial("SmallView/createloanview", Model.loanlist)
+    </div>
+    <div id="morecustumer" class="col-lg-4">
+    </div>
+</diiv>

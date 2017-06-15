@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Micro.Models.RegisterStaffViewModel>
+
+<div class="panel panel-default">
+        <div class="panel-heading">
+            <p>
+                @Html.ActionLink("Create New Staff", "Register",null,new { @class= "btn btn-primary pull-right" })
+            </p>
+            <h3 class="panel-title">list of Staff Members</h3>
+        </div>
+
+        
+        <table class="table table-striped table-hover table-bordered" >
+            <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.First_name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Middle_name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Last_name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.position)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Birthdate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Mobile_number)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+
+                <th></th>
+            </tr>
+                </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.First_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Middle_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Last_name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.position)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Birthdate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Mobile_number)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "EditStaff", new { key = item.StaffId },null) |
+                       
+                        @Html.ActionLink("Delete", "DeleteStaff", new { key = item.StaffId })
+                    </td>
+                </tr>
+            }
+                </tbody>
+        </table>
+    </div>

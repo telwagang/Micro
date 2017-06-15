@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Akiba";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="well-sm"> 
+          @*@{if (User.IsInRole("admin"))
+              {
+            <p><a href="~/Transaction/loan">Respond to Loan Requests</a></p>
+              }*@
+            <p><a href="~/Transaction/Akiba">Open Akiba Account </a></p>
+        @*}*@
+        </div>
+        <div class="well well-sm">
+            
+            <p><a href="~/Transaction/ToAkiba">Deposte Cash</a></p>
+        </div>
+        <div class="well well-sm">
+          
+            <p><a href="~/Transaction/ToAkiba">Witdraw Cash</a></p>
+        </div>
+        
+    </div>
+    <div class="col-md-4">
+        <div class="well well-sm">
+          
+            <p><a href="~/Transaction/Activity">View Transcations </a></p>
+        </div> 
+        @*<div class="well-sm">
+          
+            <p><a href="/Tr"></a></p>
+        </div>*@
+        @*<div class="well-sm">
+           
+            <p><a href="/">View all loans </a></p>
+        </div>*@
+    </div>
+</div>
